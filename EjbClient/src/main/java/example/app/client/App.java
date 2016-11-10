@@ -15,8 +15,8 @@ public class App {
     table.put("java.naming.factory.initial", "weblogic.jndi.WLInitialContextFactory");
     table.put("java.naming.provider.url", "t3://localhost:7001");
     table.put("java.naming.factory.url.pkgs", "weblogic.corba.j2ee.naming.url:weblogic.corba.client.naming");
-    table.put("java.naming.security.principal", "admin");
-    table.put("java.naming.security.credentials", "Infy!123");
+    table.put("java.naming.security.principal", "*****");
+    table.put("java.naming.security.credentials", "****");
     
     InitialContext initContext = new InitialContext(table);
     
