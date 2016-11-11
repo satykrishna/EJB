@@ -21,8 +21,6 @@
   <dependency>
   	<groupId>oracle.weblogic.server</groupId>
   	<artifactId>wlfullclient</artifactId>
-  	<version>10.3.6</version>
-  	<scope>runtime</scope>
   </dependency>
   </dependencies>
 </project>
