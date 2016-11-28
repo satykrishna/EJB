@@ -2,7 +2,6 @@
     <wb-module deploy-name="ServerApp">
         <wb-resource deploy-path="/" source-path="/ejbModule"/>
         <wb-resource deploy-path="/" source-path="/src/main/java"/>
-        <wb-resource deploy-path="/" source-path="/src/test/java"/>
         <property name="java-output-path" value="/ServerApp/build/classes"/>
     </wb-module>
 </project-modules>
